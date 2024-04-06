@@ -224,9 +224,9 @@ Printer mods for Voron 3D printers
 | JosAr | [Klicky Probe](JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | V0.2, V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
 | KenadyDwag44 | [Switchwire Lightbar](KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | VSW | 2024-01-08T16:38:25+00:00 |
 | KevinAkaSam | [VEFACH](KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | V2.4, VT | 2024-01-08T16:38:25+00:00 |
-| khay | [V0 Micro Backplate](khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | V0.2 | 2024-01-08T16:38:25+00:00 |
-|  | [Fan for V2-200mm²](khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | V2.4 | 2024-01-08T16:38:25+00:00 |
-|  | [3x Keystone PlugPanel](khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | V2.4 | 2024-01-08T16:38:25+00:00 |
+| khay | [V0 Micro Backplate](khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | V0.2 | 2024-03-14T16:46:20+00:00 |
+|  | [Fan for V2-200mm²](khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | V2.4 | 2024-03-14T16:46:20+00:00 |
+|  | [3x Keystone PlugPanel](khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | V2.4 | 2024-03-14T16:46:20+00:00 |
 | KiloQubit | [Trident Schurter Inlet Skirt](KiloQubit/trident_schurter_power_inlet) | Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet | VT | 2024-01-08T16:38:25+00:00 |
 |  | [V0 Reverse Bowden Mount](KiloQubit/V0_reverse_bowden_mount) | V0 reverse bowden mount | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V2.4 Z Chain Mounts for 3 Hole...](KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts) | Z chain mounts for 3 hole generic chain | V2.4 | 2024-01-08T16:38:25+00:00 |
@@ -330,6 +330,7 @@ Printer mods for Voron 3D printers
 |  | [Microswitch Pod for PCB](randell/Microswitch_Endstop) | Modified endstop pod for use of endstop switches mounted on a PCB | V2.4 | 2024-01-08T16:38:25+00:00 |
 | raymondh | [Large Spool Holders](raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | V1.8, V2.4 | 2024-01-08T16:38:25+00:00 |
 | reapola | [MKS CANable Pro DIN Mount](reapola/MKS_CANable_Pro_mount) | MKS CANable Pro mount which mounts on a DIN rail | V0.2, V1.8, V2.4, VSW, VT | 2024-01-08T16:38:25+00:00 |
+| Reemuson | [CYD Screen Case](Reemuson/SW_CYD_Screen_Case) | A VORON Switchwire mount-able case for the CYD screen. | VSW | 2024-03-31T00:45:03+00:00 |
 | reQu1em00 | [Kirigami LED Bed Front](reQu1em00/Kirigami_LED_Bed_Front) | Kirigami bed front with space for a single LED or Neopixel button | V0.2 | 2024-01-08T16:38:25+00:00 |
 | revnull | [Raspberry Pi 7inch Display Mount](revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | V2.4 | 2024-01-08T16:38:25+00:00 |
 | Rhastlyn | [60mm Fan Cover](Rhastlyn/60mmFanCover) | A easy to install cover for spec 60mm fans originally designed for... | V2.4 | 2024-01-08T16:38:25+00:00 |
@@ -383,6 +384,7 @@ Printer mods for Voron 3D printers
 |  | [Jetpack V0 base](tameike/Jetpack_V0) | Attach Jetpack to V0 frame | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [TacoRaven Mounting Frame](tameike/V0_TR_Mounting_Frame) | TR V0 mount | V0.2 | 2024-01-08T16:38:25+00:00 |
 | tayto-chip | [V2.4 Skirt Switch Mod](tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts | V2.4 | 2024-01-08T16:38:25+00:00 |
+| techprolet | [2020 Aplic Cam Mount](techprolet/2020_aplic_cam_mount) | Aplic HD camera to the 2020 frame at bed level. | V2.4r2 | 2024-03-14T16:27:05+00:00 |
 | teookie | [AB dial indicator mount](teookie/AB_dial_indicator_mount) | Mount for attaching standard dial indicators to AB | V1.8, V2.4, VSW | 2024-01-08T16:38:25+00:00 |
 |  | [SKR Brace](teookie/skr_brace) | Rigidize and stabilize SKR 1.4 mounts | V2.4 | 2024-01-08T16:38:25+00:00 |
 | th0mpy | [BEEFY Din Clips](th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | V2.4 | 2024-01-08T16:38:25+00:00 |
